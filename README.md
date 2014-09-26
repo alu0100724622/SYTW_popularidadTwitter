@@ -12,5 +12,5 @@ Para ejecutar esta aplicación, una vez descargada nos situamos en el directorio
 comando:
 `ruby twitter.rb`
 
-Luego, como indica en la consola, debemos ir al navegador de internet y escribir en la barra de dirección `localhost:4567` y ya
-se puede visualizar la aplicación en el navegador. 
+Luego, como indica en la consola, debemos ir al navegador de internet y escribir en la barra de dirección `localhost:4567`. Una vez hecho esto ya
+podemos visualizar la aplicación en el navegador e interactuar con ella. 
